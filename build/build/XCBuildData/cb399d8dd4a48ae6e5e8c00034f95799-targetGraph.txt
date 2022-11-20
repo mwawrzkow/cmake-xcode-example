@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+ZERO_CHECK in exampleProject, no dependencies
+exampleProject in exampleProject, depends on:
+ZERO_CHECK in exampleProject (explicit)

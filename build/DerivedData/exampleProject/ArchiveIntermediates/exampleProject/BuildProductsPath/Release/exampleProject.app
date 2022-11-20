@@ -1,0 +1,1 @@
+/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/IntermediateBuildFilesPath/UninstalledProducts/macosx/exampleProject.app

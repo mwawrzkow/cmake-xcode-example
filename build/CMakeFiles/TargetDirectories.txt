@@ -1,0 +1,3 @@
+/Users/marcinwawrzkow/Desktop/cppexample/build/CMakeFiles/exampleProject.dir
+/Users/marcinwawrzkow/Desktop/cppexample/build/CMakeFiles/ALL_BUILD.dir
+/Users/marcinwawrzkow/Desktop/cppexample/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,72 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "5a131a51a2e2eedb69f8241f799d699124ade315a54c19edabe8072e1a244667"
+    }
+  ],
+  "containerPath" : "/Users/marcinwawrzkow/Desktop/cppexample/build/exampleProject.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/InstallationBuildProductsLocation/OnDemandResources",
+          "ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/BuildProductsPath/ProductIcon.png",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/PrecompiledHeaders",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/marcinwawrzkow/Desktop/cppexample/build/DerivedData/exampleProject/ArchiveIntermediates/exampleProject/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "archive",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
